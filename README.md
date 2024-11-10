@@ -20,7 +20,7 @@ All 114 Quran Chapters have been dynamically fetched into jsons files using the 
 ```bash
     set -B
     for chapterNum in {1..114}; do
-      curl -o ./chapters-json-data/chapter_${chapterNum}.json "https://api.qurancdn.com/api/qdc/verses/by_chapter/${chapterNum}?per_page=all&words=true&fields=chapter_id,text_uthmani&word_fields=verse_key,verse_id,page_number,location,text_uthmani,code_v1,code_v2"
+      curl -o ./quran-chapters-json-data/chapter_${chapterNum}.json "https://api.qurancdn.com/api/qdc/verses/by_chapter/${chapterNum}?per_page=all&words=true&fields=chapter_id,text_uthmani&word_fields=verse_key,verse_id,page_number,location,text_uthmani,code_v1,code_v2"
     done
 ```
 
