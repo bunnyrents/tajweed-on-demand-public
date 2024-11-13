@@ -17,6 +17,8 @@ All fonts have been downloaded from [`https://github.com/quran/quran.com-images/
 
 All 114 Quran Chapters have been dynamically fetched into jsons files using the following bash command
 
+**NOTE:** You can also use this api `https://api.quran.com/api/v4` in case `https://api.qurancdn.com/api/qdc` was offline (both apis should return the same JSON data)
+
 ```bash
     set -B
     for chapterNum in {1..114}; do
