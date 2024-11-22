@@ -1,0 +1,9 @@
+{
+  "notify_hint": "This might take a few minutes",
+  "notified_success": "We will noftify you once session starts ✅",
+  "notify_btn": "Notify me when ready",
+  "session_id_heading": "Your Session ID",
+  "session_id_hint": "You will need it to re-connect to your session in case you get disconnected",
+  "copy_id": "COPY ID",
+  "id_copied": "Session ID copied."
+}

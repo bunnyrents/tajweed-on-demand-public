@@ -1,0 +1,396 @@
+{
+  "logout_dialog_box": {
+    "confirm": "Confirm Sign Out",
+
+    "please_wait": "Please wait while we signing you out...",
+
+    "are_you_sure": "Are you sure you want to sign out?",
+
+    "cancel": "Cancel",
+
+    "singout": "Sign Out",
+
+    "error": "Error",
+
+    "cannot_logout": "We cannot log you out when there is no internet connection."
+  },
+
+  "no_categories_from_home_screen": {
+    "msg": "This area is temporary unavailable.",
+    "change_location": "Change Location"
+  },
+
+  "approved_item_bottom_sheet": {
+    "mark_available": {
+      "title": "Mark available",
+      "desc": "Item will become available for people to rent"
+    },
+
+    "mark_unavailable": {
+      "title": "Mark unavailable",
+      "desc": "Item will become unavailable for people to rent"
+    },
+
+    "mark_unavialble_but_stil_renter": {
+      "title": "Mark available",
+      "desc": "Item will become available for people to rent"
+    },
+
+    "set_availaibty_on_calendar": {
+      "title": "Set availability on calendar",
+      "desc": "Block days where this listing won't be available"
+    },
+
+    "manage": {
+      "title": "Manage",
+      "desc": "Manage and update item"
+    },
+
+    "sell": {
+      "title": "Open to sell?",
+      "desc": "Let renters have an option to buy your item"
+    },
+
+    "not_open_sell": {
+      "title": "Not open to sell?",
+      "desc": "Renters will no longer have an option to buy your item"
+    },
+
+    "remove": {
+      "title": "Remove",
+      "desc": "Permanently remove item (cannot be undone)"
+    },
+
+    "contact_support": {
+      "title": "Report a problem",
+      "desc": "Contact our support for issues with this listing"
+    }
+  },
+
+  "editable_rent_item_info_owner_pov": {
+    "listed_in": "Listed in:",
+    "rented_times_one": "{{count}} Time Rented",
+    "rented_times_other": "{{count}} Times Rented",
+    "reviews_one": "{{count}} Review",
+    "reviews_other": "{{count}} Reviews"
+  },
+
+  "editable_items_terms_section": {
+    "set_term_hint": "Set the per/{{termAlias}} renting rate of the item",
+    "set_term_min_hint": "(minimum ${{min}} is required)",
+    "or": "or",
+    "disable_term": "Disable {{term}}",
+    "no_terms_yet": "Minimum one option is required."
+  },
+
+  "editable_items_terms_section_v2": {
+    "min_err_msg": "${{min}} minimum is required",
+    "remove": "remove",
+    "save": "Save",
+    "add": "Add",
+    "rate": "Rate",
+    "click_add": "Click to add",
+    "add_more": "Click to add more",
+
+    "set_modal": {
+      "heading": "Set {{rateWithLy}} rate",
+      "desc": "Customers will be able to rent your listing {{rateWithLy}} for"
+    },
+
+    "per": "Per {{rateWithoutLy}}",
+
+    "required": "Required",
+
+    "terms": {
+      "hourly": {
+        "withoutLy": "hour",
+        "withLy": "hourly"
+      },
+      "daily": {
+        "withoutLy": "day",
+        "withLy": "daily"
+      },
+
+      "weekly": {
+        "withoutLy": "week",
+        "withLy": "weekly"
+      },
+
+      "monthly": {
+        "withoutLy": "month",
+        "withLy": "monthly"
+      }
+    }
+  },
+
+  "appearance": {
+    "appearance": "Appearance",
+    "device_settings": "Use device settings",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+
+  "web_footer": {
+    "links": {
+      "help": "Help Site Content",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "faqs": "FAQs",
+      "contact": "Contact Us"
+    }
+  },
+
+  "choose_payment_method": {
+    "accepted_cards": "We accept all major debit and credit cards",
+    "add": "Add",
+    "change": "Change",
+    "invalid_card": "Invalid card",
+    "confirm_err_msg": "Please make sure to enter a valid card!",
+    "card_num": "Card Number",
+    "card_cvc": "CVC",
+    "cvc_hint": "3 - 4 digits",
+    "card_expiry": "Expiration Date",
+    "add_new_payment_method": "Add different payment method",
+    "back_to_saved_mathods": "Back to saved payment methods",
+    "saved_paymen_methods": "Choose Payment Method",
+    "save_this_card": "Securely save card info for future payments",
+    "long_press_to_remove": "Long press on card to remove",
+    "remove": "Remove",
+    "removing_card": "Removing Card",
+    "confirm_remove_dialog": "Confirm removing card ending with **** {{last4}}",
+    "removed_success": "Card removed successfully",
+    "add_header": "Add your payment information",
+    "add_header_loaner_account_view": "Add your debit card information",
+    "edit_header": "Edit your payment information",
+    "card_info": "Card Information",
+    "billing_address": "Billing Address",
+    "zip": "ZIP",
+    "country_region": "Country",
+    "defualt_pay_method_heading": "Default payment method",
+    "ur_saved_methods": "Your Saved Payments Methods",
+    "add_new_pay_method": "Add New Payment  Method",
+    "added_success": "Payment method was added.",
+    "deleted_success": "Payment method was removed."
+  },
+
+  "rent_order_status_slot": {
+    "owner": {
+      "REQUESTED": "REQUESTED",
+      "IN_PROGRESS": "IN PROGRESS",
+      "UPCOMING": "UPCOMING",
+      "UNDER_INVESTIGATION": "UNDER INVESTIGATION",
+      "ENDING_TOMMOROW_UI_PURPOSE_ONLY": "ENDING TOMORROW",
+      "STARTING_TOMMOROW_UI_PURPOSE_ONLY": "STARTING TOMORROW",
+      "COMPLETE": "COMPLETE",
+      "MISSED": "MISSED",
+      "CANCELED": "CANCELED",
+      "REJECTED": "REJECTED",
+      "STARTING_TODAY_UI_PURPOSE_ONLY": "STARTING TODAY",
+      "ENDING_TODAY_UI_PURPOSE_ONLY": "ENDING TODAY"
+    },
+
+    "renter": {
+      "REQUESTED": "REQUESTED",
+      "IN_PROGRESS": "IN PROGRESS",
+      "UPCOMING": "UPCOMING",
+      "UNDER_INVESTIGATION": "UNDER INVESTIGATION",
+      "ENDING_TOMMOROW_UI_PURPOSE_ONLY": "ENDING TOMORROW",
+      "STARTING_TOMMOROW_UI_PURPOSE_ONLY": "STARTING TOMORROW",
+      "COMPLETE": "COMPLETE",
+      "MISSED": "MISSED",
+      "CANCELED": "CANCELED",
+      "REJECTED": "REJECTED",
+      "STARTING_TODAY_UI_PURPOSE_ONLY": "STARTING TODAY",
+      "ENDING_TODAY_UI_PURPOSE_ONLY": "ENDING TODAY"
+    }
+  },
+
+  "rent_owner_row_owner_pov": {
+    "approve_rent": "APPROVE RENT",
+    "total_earning": "Total earnings",
+    "show_more": "Show more",
+    "action_required": "Action required!",
+    "expired_request": "This request has been expired"
+  },
+
+  "rent_owner_row_renter_pov": {
+    "rent_again": "RENT AGAIN",
+    "show_more": "Show more",
+    "action_required": "Action required!",
+    "expired_request": "This request has been expired"
+  },
+
+  "home_screen": {
+    "latest_items_in_area": "Latest in Your Area"
+  },
+
+  "booking_calendar": {
+    "days": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    },
+
+    "months": {
+      "1": "January {{year}}",
+      "2": "February {{year}}",
+      "3": "March {{year}}",
+      "4": "April {{year}}",
+      "5": "May {{year}}",
+      "6": "June {{year}}",
+      "7": "July {{year}}",
+      "8": "August {{year}}",
+      "9": "September {{year}}",
+      "10": "October {{year}}",
+      "11": "November {{year}}",
+      "12": "December {{year}}"
+    }
+  },
+
+  "edit_item_block_days_via_calendar_modal": {
+    "heading": "Block days",
+    "sub_heading": "You don't want your item to get rented on",
+    "look_hint": "Tap the day you want to change your listing availability on",
+    "day_is_rented": "Your listing is already reserved for renting on this day"
+  },
+
+  "video_picker": {
+    "video_editor_heading": "Video Editor",
+    "finish_video_edit_btn": "Confirm",
+    "trim_heading": "Trim",
+    "trim_heading_hint": "Trim the video up to <0>{{maxTrimInSeconds}}</0> consecutive seconds",
+    "trim_general_hint_1": "Slide the left-slider to choose the target start point",
+    "trim_general_hint_2": "Slide the right-slider to choose the target end point",
+    "failed_to_procces_vidoe_natively": "Failed to process the video! Please try again.",
+    "video_processing_view": {
+      "convert": "Convert",
+      "compress": "Compress",
+      "done": "Done"
+    },
+
+    "video_input": {
+      "videos": "Videos",
+      "camera": "Camera"
+    },
+
+    "video_record_screen": {
+      "camera_device_err": "No \"Camera-Device\" Was Detected!",
+      "permissions_denied": "Permissions Were Denied!",
+      "enable_permissions": "Enable Permissions"
+    }
+  },
+
+  "loaner_acount_alerts": {
+    "null_acount": {
+      "heading": "Register a loaner account",
+      "action_txt": "BECOME A LOANER AND EARN MONEY NOW"
+    },
+
+    "pending": {
+      "heading": "You loaner account status is pending",
+      "sub_heading": "No further action required, we will notify you soon."
+    },
+
+    "rejected": {
+      "heading": "You loaner account status is rejected",
+      "sub_heading": "Reason: {{rejectionReason}}",
+      "updated_info": "UPDATE YOUR INFO"
+    },
+
+    "on_hold": {
+      "heading": "You loaner account status is on hold",
+      "sub_heading": "Looks like some of your banking information changed please update ASAP, until then we won't be able to process your payout.",
+      "updated_info": "UPDATE YOUR INFO"
+    }
+  },
+
+  "verified_profile_sign": {
+    "verified_msg": "User Identity has been verified"
+  },
+
+  "issue_submittion": {
+    "heading": {
+      "order_type": "What best describes the issue?",
+      "listing_type": "What would you like to report?",
+      "user_type": "What would you like to report?"
+    },
+
+    "subheading": {
+      "order_type": "(Select all that applies)",
+      "listing_type": "(Select all that applies)",
+      "user_type": "(Select all that applies)"
+    },
+
+    "desc_placeholder": {
+      "order_type": "Describe your issue here",
+      "listing_type": "Additional information about your report",
+      "user_type": "Additional information about your report"
+    },
+
+    "submit_btn": {
+      "order_type": "Submit Issue",
+      "listing_type": "Submit Report",
+      "user_type": "Submit Report"
+    },
+
+    "success_heading": {
+      "order_type": "We have received your issue",
+      "listing_type": "We have received your report",
+      "user_type": "We have received your report"
+    },
+
+    "success_subheading": {
+      "order_type": "Someone will reach out to you soon",
+      "listing_type": "Someone will reach out to you soon",
+      "user_type": "Someone will reach out to you soon"
+    },
+
+    "renter_order_issues": {
+      "issue_1": "I accidentally caused a defect or broke the rented item.",
+      "issue_2": "Loaner is not responding / no show.",
+      "issue_3": "Item has an issue or doesn't work properly.",
+      "issue_4": "Item is not as described.",
+      "issue_5": "Something else."
+    },
+
+    "owner_order_issues": {
+      "issue_1": "Guest accidentally caused a defect or broke the rented item.",
+      "issue_2": "Guest is not responding / no show.",
+      "issue_3": "Item has an issue or doesn't work properly.",
+      "issue_4": "Item is not mine.",
+      "issue_5": "Something else."
+    },
+
+    "listing_issues": {
+      "issue_1": "Inappropriate images and/or content.",
+      "issue_2": "Listing description mismatches images.",
+      "issue_3": "I believe this listing should not be allowed on the platform.",
+      "issue_4": "Something else.."
+    },
+
+    "user_issues": {
+      "issue_1": "Inappropriate profile picture or profile content.",
+      "issue_2": "Fake profile.",
+      "issue_3": "Something else."
+    }
+  },
+
+  "order_review_submittion": {
+    "heading": "Review your experience",
+    "submit_btn": "Submit Review",
+    "success_heading": "Thank you!",
+    "success_subheading": "By making your voice heard, you help us improve.",
+    "desc_placeholder": "Care to share more about it?",
+    "stars_placeholder": "How was your renting experience?"
+  },
+
+  "loaner_acount": {
+    "laoner_acount_registerd_success": "Loaner account registration request has been received.",
+    "laoner_acount_updated_success": "Loaner account has been updated.",
+    "ip_address_err": "Couldn't find your ip-address"
+  }
+}

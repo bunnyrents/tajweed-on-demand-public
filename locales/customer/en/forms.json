@@ -1,0 +1,33 @@
+{
+  "validations": {
+    "mixed": {
+      "required": "\"{{label}}\" is requried"
+    },
+
+    "string": {
+      "min": "\"{{label}}\" must have a min length of {{min}} character(s)",
+      "max": "\"{{label}}\" must have a max length of {{max}} character(s)",
+      "email": "\"{{label}}\" has invalid email format"
+    },
+
+    "array": {
+      "min": "\"{{label}}\" must have a min size of {{min}} item(s)",
+      "max": "\"{{label}}\" must have a max size of {{max}} item(s)"
+    },
+
+    "number": {
+      "min": "Minimum of {{min}} \"{{label}}\" is required",
+      "max": "\"{{label}}\" cannot exceed {{max}}"
+    },
+
+    "us_err_msg": "US phone number must have the following format \"xxx-xxx-xxxx\"",
+
+    "inputs_errs_submit_msg": "Please make sure that fields are filled properly",
+
+    "pass_format_err_msg": "Password must contain letters and numbers",
+
+    "pass_match_err_msg": "Passwords must match",
+
+    "us_ssn_err_msg": "US social security number must have the following format \"XXX-XX-XXXX\""
+  }
+}

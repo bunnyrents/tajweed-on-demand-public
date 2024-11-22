@@ -1,0 +1,13 @@
+{
+  "surah_inpput_label": "Any specific surah (chapter)",
+  "reciter_input_label": "Reciter",
+  "session_plan_input_label": "Choose your plan",
+  "session_30_minutes": "30 Minutes Session (<0>$9</0>)",
+  "session_60_minutes": "1 Hour Session (<0>$14</0>)",
+  "reciter_any": "Any",
+  "reciter_male": "Male",
+  "reciter_female": "Female",
+  "find_reciter_btn": "Find Available Teacher",
+  "go_back": "Go Back",
+  "chapter_select_label": "--- Select Surah (Chapter)---"
+}

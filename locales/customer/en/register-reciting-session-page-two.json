@@ -1,0 +1,14 @@
+{
+  "start_btn": "Start Reciter Session",
+  "go_back": "Go Back",
+  "payment_heading": "Please add a payment method for the session to continue",
+  "total_30_minutes": "Total: <0>$9</0> (30 minutes session)",
+  "total_60_minutes": "Total: <0>$14</0> (1 hour session)",
+  "payment_method": "Payment Method",
+  "payment_hint": "You will only be charged after your reciting session starts",
+  "pay_method": {
+    "heading": "Payment method",
+    "desc": "Choose your payment method"
+  },
+  "register_success": "Session has been registered."
+}
