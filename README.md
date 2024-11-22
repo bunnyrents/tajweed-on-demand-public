@@ -4,6 +4,7 @@ Mostly needed to publicly serve the following:
 
 - Quran's fonts.
 - Quran Chapters JSON Data.
+- Locales Files for both customer & reciter apps.
 
 ## Quran's fonts
 
