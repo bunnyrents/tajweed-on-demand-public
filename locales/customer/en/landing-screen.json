@@ -1,5 +1,9 @@
 {
   "heading": "Instant Live Tajweed and Quran Lesson",
   "start_btn": "Start reciting with a Quran teacher now",
-  "rejoin": "Re-join my existing session"
+  "rejoin": "Re-join my existing session",
+  "enter_session_id": "Enter your session ID",
+  "session_id_hint": "If you get disconnected from your session, then enter your session ID to re-connect",
+  "rejoin_btn": "Rejoin",
+  "rejoin_failed": "Invalid or expired session!"
 }
