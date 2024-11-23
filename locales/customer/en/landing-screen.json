@@ -4,6 +4,7 @@
   "rejoin": "Re-join my existing session",
   "enter_session_id": "Enter your session ID",
   "session_id_hint": "If you get disconnected from your session, then enter your session ID to re-connect",
+  "session_id_placeholder": "e.g. 5253-352-4683-8282",
   "rejoin_btn": "Rejoin",
   "rejoin_failed": "Invalid or expired session!"
 }
