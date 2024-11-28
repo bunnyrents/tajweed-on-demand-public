@@ -1,6 +1,12 @@
 {
   "you_are_connected": "You are connected",
+  "you_are_disconnected": "You are disconnected",
+  "joining_to_session": "Joining to session...",
+  "rejoining_to_session": "Rejoining to session...",
   "reciter": "Reciter",
+  "reciter_connected": "Reciter is connected",
+  "reciter_disconnected": "Reciter is disconnected",
   "reciter_view_hint": "You and the reciter are viewing the same page of Quran together",
-  "chapter_select_label": "--- Select Surah (Chapter)---"
+  "chapter_select_label": "--- Select Surah (Chapter)---",
+  "remaing_session_time": "Session Remaining Time"
 }
