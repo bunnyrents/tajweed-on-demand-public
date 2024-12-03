@@ -8,5 +8,18 @@
   "reciter_disconnected": "Reciter is disconnected",
   "reciter_view_hint": "You and the reciter are viewing the same page of Quran together",
   "chapter_select_label": "--- Select Surah (Chapter)---",
-  "remaing_session_time": "Session Remaining Time"
+  "remaing_session_time": "Session Remaining Time",
+
+  "session_will_expire_soon_modal": {
+    "heading": "Your Session Will Expire Shortly!",
+    "desc": "Hurry up and wrap things up with the reciter.",
+    "button": "OK"
+  },
+
+  "end_session_modal": {
+    "heading": "Are you sure you want to leave this session?",
+    "desc": "After leaving this session, you still can rejoin this session by manually entering the session's ID.",
+    "ok_btn": "Confirm",
+    "cancle_btn": "Cancel"
+  }
 }
