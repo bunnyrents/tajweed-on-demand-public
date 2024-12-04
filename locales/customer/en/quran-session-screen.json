@@ -18,8 +18,10 @@
 
   "end_session_modal": {
     "heading": "Are you sure you want to leave this session?",
-    "desc": "After leaving this session, you still can rejoin this session by manually entering the session's ID.",
+    "desc": "After leaving this session, you still can rejoin it later by manually entering the session ID.",
     "ok_btn": "Confirm",
     "cancle_btn": "Cancel"
-  }
+  },
+
+  "copy_session_id": "Copy Session ID"
 }
