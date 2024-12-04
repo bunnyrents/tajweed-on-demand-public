@@ -23,5 +23,6 @@
     "cancle_btn": "Cancel"
   },
 
-  "copy_session_id": "Copy Session ID"
+  "copy_session_id": "Copy Session ID",
+  "id_copied": "Session ID copied."
 }
